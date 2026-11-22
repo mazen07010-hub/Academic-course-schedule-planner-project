@@ -18,5 +18,5 @@ and submit grades, while administrators and registrar manage courses, sections.
 
 #docs links
 
-[Software Requirements Specification (SRS)](docs/CSAI203_SRS_202507010.pdf)
-[System Design Document](docs/CSAI_Design_202507010.pdf)
+- [Software Requirements Specification (SRS)](docs/CSAI203_SRS_202507010.pdf)
+- [System Design Document](docs/CSAI_Design_202507010.pdf)
