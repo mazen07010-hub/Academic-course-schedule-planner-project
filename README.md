@@ -1,2 +1,2 @@
 # Academic-course-schedule-planner-project
-(docs/CSAI203_SRS_202507010.pdf)
+[Software Requirements Specification (SRS)](docs/CSAI203_SRS_202507010.pdf)
