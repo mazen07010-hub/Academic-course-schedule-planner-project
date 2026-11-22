@@ -1,10 +1,11 @@
 # Academic-course-schedule-planner-project
 #team members
+
 name          | ID
-Mazen Mohamed | 202507010
-Ahmed Fawzy   | 202505585
-Moaz Mohamed  | 202511516
-Ahmed Afifi   | 202301050
+- Mazen Mohamed | 202507010
+- Ahmed Fawzy   | 202505585
+- Moaz Mohamed  | 202511516
+- Ahmed Afifi   | 202301050
 
 #Project description
 
